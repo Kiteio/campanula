@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chardet": "^2.0.0",
+    "text-encoding": "^0.7.0"
+  },
+  "devDependencies": {
+    "@types/text-encoding": "^0.0.39"
+  }
+}

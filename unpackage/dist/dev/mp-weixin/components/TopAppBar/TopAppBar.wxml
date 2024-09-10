@@ -1,0 +1,1 @@
+<view class="elevated groundGlass box" style="{{a}}"><view class="statusBar"/><view class="topAppBar"><slot></slot></view></view><view class="block" style="{{b}}"/>

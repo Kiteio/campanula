@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/read/read"
+  ],
+  "window": {
+    "navigationBarTextStyle": "@navigationBarTextStyle",
+    "backgroundColor": "@backgroundColor",
+    "navigationStyle": "custom"
+  },
+  "themeLocation": "static/theme.json",
+  "darkmode": true,
+  "usingComponents": {}
+}

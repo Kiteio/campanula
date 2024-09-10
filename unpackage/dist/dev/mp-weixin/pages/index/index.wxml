@@ -1,0 +1,1 @@
+<view class="fillScreen center"><view class="brand"><view class="primary appName">风铃</view><view class="primary version">v 1.0.0</view><view class="poem">羁鸟恋旧林 池鱼思故渊</view></view><view bindtap="{{a}}" class="elevated outlined button">从消息中打开文件</view></view>

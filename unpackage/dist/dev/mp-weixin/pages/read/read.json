@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "top-app-bar": "../../components/TopAppBar/TopAppBar",
+    "mp-html": "../../components/mp-html/mp-html"
+  }
+}

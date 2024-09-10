@@ -1,0 +1,19 @@
+
+.brand {
+		margin-bottom: 35%;
+}
+.appName {
+		font-size: 70rpx;
+		font-weight: bold;
+		text-align: end;
+}
+.version {
+		font-size: 24rpx;
+		font-weight: bold;
+		text-align: end;
+}
+.poem {
+		font-weight: 600;
+		margin-top: 10rpx;
+		text-align: end;
+}
